@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b214636-4aac-49e3-8cab-6f22f1c9bb35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JavaBook/Generics/CompareMethodExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaBook/Generics/MultiParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaBook/Generics/MultiParamExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaBook/Generics/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaBook/Generics/Util.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThreadPrac/RunnableExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThreadPrac/ThreadExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThreadPrac/ThreadJoin.java" afterDir="false" />
+    <list default="true" id="b8e44558-20e4-4235-9b4a-64869349a5fe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/StandardExpresion/RegexTestHarness.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/invoicedata" beforeDir="false" afterPath="$PROJECT_DIR$/invoicedata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java2_2ndClass/java2_IO/DirectoryExample2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java2_2ndClass/java2_IO/DirectoryExample2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java2_IO/DirectoryExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java2_IO/DirectoryExample2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java2_2ndClass/JavaBook/Generics/CompareMethodExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java2_2ndClass/JavaBook/Generics/CompareMethodExample.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,7 +17,20 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/StandardExpresion/RegexTestHarness.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="376">
+              <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -61,38 +65,34 @@
         <option value="$PROJECT_DIR$/src/JavaBook/Generics/Util.java" />
         <option value="$PROJECT_DIR$/src/JavaBook/Generics/Pair.java" />
         <option value="$PROJECT_DIR$/src/JavaBook/Generics/CompareMethodExample.java" />
+        <option value="$PROJECT_DIR$/src/StandardExpresion/RegexTestHarness.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
-    <option name="height" value="529" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="1182" />
+    <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="java2ndCLass" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java2ndCLass" type="462c0819:PsiDirectoryNode" />
+              <item name="java2_2ndClass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java2_2ndClass" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="java2ndCLass" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java2ndCLass" type="462c0819:PsiDirectoryNode" />
+              <item name="java2_2ndClass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java2_2ndClass" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java2ndCLass" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java2ndCLass" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Generics" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -125,7 +125,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CompareMethodExample">
+  <component name="RunManager" selected="Application.RegexTestHarness">
     <configuration name="CompareMethodExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaBook.Generics.CompareMethodExample" />
       <module name="java2_2ndClass" />
@@ -152,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunnableExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreadPrac.RunnableExam" />
+    <configuration name="RegexTestHarness" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StandardExpresion.RegexTestHarness" />
       <module name="java2_2ndClass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ThreadPrac.*" />
+          <option name="PATTERN" value="StandardExpresion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,8 +165,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreadPrac.ThreadExam" />
+    <configuration name="RunnableExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadPrac.RunnableExam" />
       <module name="java2_2ndClass" />
       <extension name="coverage">
         <pattern>
@@ -193,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RegexTestHarness" />
         <item itemvalue="Application.CompareMethodExample" />
         <item itemvalue="Application.MultiParamExam" />
         <item itemvalue="Application.ThreadJoin" />
         <item itemvalue="Application.RunnableExam" />
-        <item itemvalue="Application.ThreadExam" />
       </list>
     </recent_temporary>
   </component>
@@ -223,16 +223,49 @@
     <option name="totallyTimeSpent" value="26472000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <frame x="-7" y="0" width="1182" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.147651" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2713348" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32807216" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3289855" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Run" order="9" weight="0.57912236" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2713348" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
@@ -255,10 +288,26 @@
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info active="true" anchor="right" id="Run" order="9" visible="true" weight="0.22214764" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Generics/TestGeneric.java">
@@ -449,6 +498,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StandardExpresion/RegexTestHarness.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
