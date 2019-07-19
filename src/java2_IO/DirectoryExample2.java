@@ -6,8 +6,8 @@ import java.nio.file.Paths;
 
 public class DirectoryExample2 {
     public static void main(String[] args) throws Exception{
-        Path path1 = Paths.get("/home/aisen/Desktop/new");
-        Path path2 = Paths.get("/home/aisen/Desktop/newFile.txt");
+        Path path1 = Paths.get("C:/rtemp/subdir");
+        Path path2 = Paths.get("C:/rtemp/java.txt");
 
         if (Files.notExists(path1)) {
             Files.createDirectories(path1);
@@ -16,7 +16,7 @@ public class DirectoryExample2 {
             Files.createFile(path2);
         }
 
-        Path path3 = Paths.get("/home/aisen/Desktop/new");
+        Path path3 = Paths.get("C:/rtemp/");
         DirectoryStream<Path> directoryStream = Files.newDirectoryStream(path3);
         for (Path path : directoryStream) {
             if (Files.isDirectory(path)) {
