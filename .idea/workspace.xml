@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b214636-4aac-49e3-8cab-6f22f1c9bb35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/collection/ListExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/ListMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/ListStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/SetExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5b214636-4aac-49e3-8cab-6f22f1c9bb35" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -125,8 +117,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/collection/ListStudent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="34" column="42" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
+            <state relative-caret-position="302">
+              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -171,10 +163,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="181" />
-    <option name="y" value="1199" />
-    <option name="width" value="1440" />
-    <option name="height" value="773" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -322,16 +312,15 @@
       <workItem from="1563181746328" duration="5383000" />
       <workItem from="1563241183068" duration="5319000" />
       <workItem from="1563377082950" duration="2051000" />
-      <workItem from="1563526957021" duration="6273000" />
+      <workItem from="1563526957021" duration="6562000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22672000" />
+    <option name="totallyTimeSpent" value="22961000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1280" height="773" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18314424" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -342,7 +331,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35771066" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35771066" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -597,8 +586,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/collection/ListStudent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="34" column="42" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
+        <state relative-caret-position="302">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
