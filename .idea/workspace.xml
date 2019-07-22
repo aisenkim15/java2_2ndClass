@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b214636-4aac-49e3-8cab-6f22f1c9bb35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JavaBook/Generics/CompareMethodExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaBook/Generics/MultiParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaBook/Generics/MultiParamExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaBook/Generics/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaBook/Generics/Util.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThreadPrac/RunnableExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThreadPrac/ThreadExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThreadPrac/ThreadJoin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/invoicedata" beforeDir="false" afterPath="$PROJECT_DIR$/invoicedata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java2_2ndClass/java2_IO/DirectoryExample2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java2_2ndClass/java2_IO/DirectoryExample2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java2_IO/DirectoryExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java2_IO/DirectoryExample2.java" afterDir="false" />
-    </list>
+    <list default="true" id="5b214636-4aac-49e3-8cab-6f22f1c9bb35" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -215,12 +202,12 @@
       <workItem from="1563181746328" duration="5383000" />
       <workItem from="1563241183068" duration="5319000" />
       <workItem from="1563377082950" duration="2051000" />
-      <workItem from="1563420774012" duration="10073000" />
+      <workItem from="1563420774012" duration="10112000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26472000" />
+    <option name="totallyTimeSpent" value="26511000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
@@ -242,7 +229,7 @@
       <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32905984" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3289855" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3289855" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -254,7 +241,7 @@
       <window_info anchor="right" id="Maven" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info active="true" anchor="right" id="Run" order="9" visible="true" weight="0.22214764" />
+      <window_info anchor="right" id="Run" order="9" weight="0.22214764" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
