@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b214636-4aac-49e3-8cab-6f22f1c9bb35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/javaBookLambda/MyFinctionalInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaBookLambda/MyFunctionalIterfaceExample.java" afterDir="false" />
+    <list default="true" id="b8e44558-20e4-4235-9b4a-64869349a5fe" name="Default Changelist" comment="&quot;class 7.23&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java2_2ndClass.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java2_2ndClass.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JDBC/PreparedStmtExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JDBC/PreparedStmtExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/FindDups.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/FindDups.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/Freq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/Freq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/Name.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/Name.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,8 +24,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/collection/FindDups.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="15" column="93" selection-start-line="15" selection-start-column="93" selection-end-line="15" selection-end-column="93" />
+            <state relative-caret-position="420">
+              <caret line="15" column="72" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="72" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -30,23 +33,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaBookLambda/MyFinctionalInterface.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/javaBookLambda/MyFunctionalIterfaceExample.java">
+        <entry file="file://$PROJECT_DIR$/src/collection/Name.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+            <state relative-caret-position="365">
+              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
               <folding>
-                <element signature="e#486#487#0" expanded="true" />
-                <element signature="e#509#510#0" expanded="true" />
+                <element signature="e#387#388#0" expanded="true" />
+                <element signature="e#419#420#0" expanded="true" />
+                <element signature="e#449#450#0" expanded="true" />
+                <element signature="e#480#481#0" expanded="true" />
+                <element signature="e#737#738#0" expanded="true" />
+                <element signature="e#805#806#0" expanded="true" />
+                <element signature="e#840#841#0" expanded="true" />
+                <element signature="e#889#890#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -90,7 +90,6 @@
         <option value="$PROJECT_DIR$/src/JavaBook/Generics/Course.java" />
         <option value="$PROJECT_DIR$/src/collection/PointUse.java" />
         <option value="$PROJECT_DIR$/src/collection/Point.java" />
-        <option value="$PROJECT_DIR$/src/collection/FindDups.java" />
         <option value="$PROJECT_DIR$/src/collection/FindDups2.java" />
         <option value="$PROJECT_DIR$/src/collection/Shuffle.java" />
         <option value="$PROJECT_DIR$/src/collection/Shuffle2.java" />
@@ -99,49 +98,49 @@
         <option value="$PROJECT_DIR$/src/javaBookLambda/MyFunctionalInterface.java" />
         <option value="$PROJECT_DIR$/src/javaBookLambda/MyFinctionalInterface.java" />
         <option value="$PROJECT_DIR$/src/javaBookLambda/MyFunctionalIterfaceExample.java" />
+        <option value="$PROJECT_DIR$/src/collection/Freq.java" />
+        <option value="$PROJECT_DIR$/src/collection/Name_Compare.java" />
+        <option value="$PROJECT_DIR$/src/collection/Name.java" />
+        <option value="$PROJECT_DIR$/src/collection/NameUse.java" />
+        <option value="$PROJECT_DIR$/src/JDBC/PreparedStmtExample.java" />
+        <option value="$PROJECT_DIR$/src/collection/FindDups.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="950" />
-    <option name="width" value="980" />
-    <option name="height" value="530" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="233" />
+    <option name="width" value="1694" />
+    <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="java2ndCLass" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java2ndCLass" type="462c0819:PsiDirectoryNode" />
+              <item name="java2_2ndClass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java2_2ndClass" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="java2ndCLass" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java2ndCLass" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java2_2ndClass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java2_2ndClass" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="java2ndCLass" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java2ndCLass" type="462c0819:PsiDirectoryNode" />
+              <item name="java2_2ndClass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java2_2ndClass" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Generics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java2ndCLass" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java2ndCLass" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javaBookLambda" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -152,8 +151,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/ojdbc10.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
@@ -173,7 +176,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyFunctionalIterfaceExample">
+  <component name="RunManager" selected="Application.PreparedStmtExample">
     <configuration name="CountDown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collection.CountDown" />
       <module name="java2_2ndClass" />
@@ -188,9 +191,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lottery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.Lottery" />
+    <configuration name="Freq" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.Freq" />
       <module name="java2_2ndClass" />
+      <option name="PROGRAM_PARAMETERS" value="java Freq if it is to be it is up to me to delegate" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="collection.*" />
@@ -214,10 +218,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Shuffle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.Shuffle" />
+    <configuration name="NameUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.NameUse" />
       <module name="java2_2ndClass" />
-      <option name="PROGRAM_PARAMETERS" value="I come I saw I leave" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="collection.*" />
@@ -228,13 +231,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Shuffle2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.Shuffle2" />
+    <configuration name="PreparedStmtExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDBC.PreparedStmtExample" />
       <module name="java2_2ndClass" />
-      <option name="PROGRAM_PARAMETERS" value="I come I saw I leave I arrive" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.*" />
+          <option name="PATTERN" value="JDBC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -243,19 +245,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Shuffle" />
-      <item itemvalue="Application.Shuffle2" />
-      <item itemvalue="Application.Lottery" />
       <item itemvalue="Application.CountDown" />
       <item itemvalue="Application.MyFunctionalIterfaceExample" />
+      <item itemvalue="Application.Freq" />
+      <item itemvalue="Application.NameUse" />
+      <item itemvalue="Application.PreparedStmtExample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PreparedStmtExample" />
+        <item itemvalue="Application.NameUse" />
+        <item itemvalue="Application.Freq" />
         <item itemvalue="Application.MyFunctionalIterfaceExample" />
         <item itemvalue="Application.CountDown" />
-        <item itemvalue="Application.Lottery" />
-        <item itemvalue="Application.Shuffle2" />
-        <item itemvalue="Application.Shuffle" />
       </list>
     </recent_temporary>
   </component>
@@ -280,16 +282,23 @@
       <workItem from="1563848364582" duration="596000" />
       <workItem from="1563849586142" duration="2779000" />
     </task>
+    <task id="LOCAL-00001" summary="&quot;class 7.23&quot;">
+      <created>1563879221741</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563879221741</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="35817000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="848" extended-state="7" />
-    <editor active="true" />
+    <frame x="233" y="0" width="1694" height="1047" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15570469" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.1544186" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -299,7 +308,40 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.35507247" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35400227" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32807216" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32608697" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3289855" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3289855" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24966443" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3295302" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.15525554" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35400227" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -320,19 +362,34 @@
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3295302" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;class 7.23&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;class 7.23&quot;" />
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/java2ndCLass$PointUse.ic" NAME="PointUse Coverage Results" MODIFIED="1563789319531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>collection.*</FILTER>
-    </SUITE>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Generics/TestGeneric.java">
@@ -643,23 +700,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaBookLambda/MyFunctionalInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/collection/FindDups.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="15" column="93" selection-start-line="15" selection-start-column="93" selection-end-line="15" selection-end-column="93" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaBookLambda/MyFunctionalInterface.java" />
     <entry file="file://$PROJECT_DIR$/src/javaBookLambda/MyFinctionalInterface.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -678,12 +719,168 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/StandardExpresion/RegexTestHarness.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="642">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collection/Freq.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" column="52" lean-forward="true" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="docComment;method#hashCode#0;class#Object#0" />
+            <element signature="docComment;method#equals#0;class#Object#0" />
+            <element signature="e#5748#5749#0" expanded="true" />
+            <element signature="e#5784#5785#0" expanded="true" />
+            <element signature="docComment;method#clone#0;class#Object#0" />
+            <element signature="docComment;method#toString#0;class#Object#0" />
+            <element signature="docComment;method#notify#0;class#Object#0" />
+            <element signature="docComment;method#notifyAll#0;class#Object#0" />
+            <element signature="docComment;method#wait#0;class#Object#0" />
+            <element signature="docComment;method#wait#1;class#Object#0" />
+            <element signature="docComment;method#wait#2;class#Object#0" />
+            <element signature="docComment;method#finalize#0;class#Object#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collection/NameUse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="868">
+          <caret line="31" column="31" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JDBC/PreparedStmtExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="79" selection-start-line="9" selection-start-column="79" selection-end-line="9" selection-end-column="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collection/FindDups.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="15" column="72" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collection/Name.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
+            <element signature="e#737#738#0" expanded="true" />
+            <element signature="e#805#806#0" expanded="true" />
+            <element signature="e#840#841#0" expanded="true" />
+            <element signature="e#889#890#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>ojdbc10</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
