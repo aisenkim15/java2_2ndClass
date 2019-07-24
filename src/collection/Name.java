@@ -18,7 +18,7 @@ public class Name implements Comparable<Name>{
         return lastName;
     }
 
-    public boolean equals(Object o){
+    public boolean equals(Object o){ //can we override the method and use the old method inside it?
         if (!(o instanceof Name)) {
             return false;
         }
@@ -28,7 +28,7 @@ public class Name implements Comparable<Name>{
 
     public int hashCode(){
         return 31*firstName.hashCode() + lastName.hashCode();
-    }
+    } //usage of this line in this code (보통 메인메소드 에서 사용되는건지..?
 
     public String toString(){
         return firstName + " " + lastName;

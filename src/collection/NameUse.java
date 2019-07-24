@@ -15,6 +15,10 @@ public class NameUse {
         names.add(k);
         names.add(j);
 
+        System.out.println("printing of hashcode" + n.hashCode());
+        System.out.println("printing of hashcode " + j.hashCode());
+        System.out.println("printing of hashcode " + k.hashCode());
+
         System.out.println(names);
         Collections.sort(names);
         System.out.println(names);
